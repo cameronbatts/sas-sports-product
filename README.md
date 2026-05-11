@@ -140,8 +140,11 @@ README.md    -> project overview and documentation
 
 ---
 
-# Portfolio
+# Author
 
-Portfolio Website: https://cameronbatts.github.io/
+Cameron Batts
 
-GitHub Profile: https://github.com/Cameron-Batts
+GitHub: https://github.com/Cameron-Batts
+
+Portfolio: https://cameron-batts.github.io
+
